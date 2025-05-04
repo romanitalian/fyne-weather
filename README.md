@@ -12,7 +12,7 @@ A simple desktop weather application built with Go and Fyne framework. The app s
 
 ## Screenshots
 
-![Weather App Example](example-1.png)
+![Weather App Example](docs/screenshots/example-1.png)
 
 ## Prerequisites
 
