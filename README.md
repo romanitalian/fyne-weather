@@ -79,9 +79,8 @@ make clean  # Clean build artifacts and cache
 
 ```
 .
-├── cmd/
-│   └── main.go       # Main application code
-├── build/            # Build artifacts (created during build)
+├── main.go          # Main application code
+├── build/           # Build artifacts (created during build)
 ├── Makefile         # Build and development commands
 ├── go.mod           # Go module definition
 ├── go.sum           # Go module checksums
